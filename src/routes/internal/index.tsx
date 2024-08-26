@@ -32,7 +32,7 @@ import CreateBlog from 'pages/app/create-blog';
 
 const internalRoute: routeTypes = [
   {
-    element: <Dashboard />,
+    element: <AllBlogs />,
     path: 'dashboard',
   },
   {
