@@ -1,0 +1,114 @@
+/* For Firefox */
+input[type='text']::-webkit-inner-spin-button,
+input[type='text']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  border: none;
+  outline: none; /* Removes the outline */
+}
+
+/* For Chrome, Safari, and newer versions of Opera */
+input[type='text']::-webkit-inner-spin-button,
+input[type='text']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  border: none;
+  outline: none;
+}
+
+/* For Internet Explorer */
+input[type='text']::-ms-clear {
+  display: none;
+  border: none;
+  outline: none; /* Removes the outline */
+}
+input[type='text']:focus {
+  outline: none;
+}
+
+/* For Firefox */
+input[type='text'] {
+  -moz-appearance: textfield;
+}
+input[type='text'] {
+  border: 1px solid rgb(233, 228, 228);
+  box-shadow: none;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid rgb(233, 228, 228);
+  box-shadow: none;
+}
+input[type='text']:focus {
+  outline: none;
+  border: 1px solid rgb(233, 228, 228);
+  box-shadow: none;
+}
+
+input[type='text']::-webkit-inner-spin-button,
+input[type='text']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='text'] {
+  -moz-appearance: textfield;
+}
+/* For Firefox */
+input[type='password']::-webkit-inner-spin-button,
+input[type='password']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  border: none;
+  outline: none; /* Removes the outline */
+}
+
+/* For Chrome, Safari, and newer versions of Opera */
+input[type='password']::-webkit-inner-spin-button,
+input[type='password']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  border: none;
+  outline: none;
+}
+
+/* For Internet Explorer */
+input[type='password']::-ms-clear {
+  display: none;
+  border: none;
+  outline: none; /* Removes the outline */
+}
+input[type='password']:focus {
+  outline: none;
+}
+
+/* For Firefox */
+input[type='password'] {
+  -moz-appearance: textfield;
+}
+input[type='password'] {
+  border: 1px solid rgb(233, 228, 228);
+  box-shadow: none;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid rgb(233, 228, 228);
+  box-shadow: none;
+}
+input[type='password']:focus {
+  outline: none;
+  border: 1px solid rgb(233, 228, 228);
+  box-shadow: none;
+}
+
+input[type='password']::-webkit-inner-spin-button,
+input[type='password']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='password'] {
+  -moz-appearance: textfield;
+}
