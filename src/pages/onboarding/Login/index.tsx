@@ -135,7 +135,7 @@ const Login = () => {
       <div className=' mx-auto flex w-full  flex-col items-center justify-center gap-8  px-4 md:max-w-xl md:px-[3rem]'>
         <div className='flex w-full flex-col items-center gap-8'>
           <div className=' flex cursor-pointer items-center' onClick={() => navigate(`/`)}>
-            <Icon name='nfmLogo' svgProp={{ className: 'w-[8rem] h-[5rem]' }} />
+            {/* <Icon name='nfmLogo' svgProp={{ className: 'w-[8rem] h-[5rem]' }} /> */}
           </div>
 
           <h5 className='tracking-[0.18px]] font-inter text-[20px] font-[600] leading-[32px]'>

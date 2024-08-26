@@ -67,7 +67,7 @@ const AppNav = () => {
       >
         <div className=' hidden h-full w-full items-center justify-between bg-white  pt-2       md:flex md:px-container-base'>
           <div className='h-[3rem] '>
-            <img src={Logo} alt='logo' className='h-full w-[5rem]' />
+            <img src={Logo} alt='logo' className='invisible h-full w-[5rem]' />
           </div>
           <div className='relative max-w-[400px] md:w-full  '>
             <div className='rounded-[12px] bg-slate-100/60  px-[1.125rem] py-[0.175rem]  shadow-sm md:w-full'>

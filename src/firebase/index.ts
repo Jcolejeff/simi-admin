@@ -4,12 +4,12 @@ import { getStorage } from 'firebase/storage';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
- apiKey: "AIzaSyAP0IalCnyFRTXVOibXdrkhL6-7ys4-lzg",
-  authDomain: "simi-blog.firebaseapp.com",
-  projectId: "simi-blog",
-  storageBucket: "simi-blog.appspot.com",
-  messagingSenderId: "206227647595",
-  appId: "1:206227647595:web:9d041bb92456c85875d52e"
+  apiKey: 'AIzaSyDCPvoAxDyiyckt4BC9LYYdEH0CR-SUWUE',
+  authDomain: 'simis-project.firebaseapp.com',
+  projectId: 'simis-project',
+  storageBucket: 'simis-project.appspot.com',
+  messagingSenderId: '101528085433',
+  appId: '1:101528085433:web:a1d78501bad2a28d274c68',
 };
 
 // Initialize Firebase
